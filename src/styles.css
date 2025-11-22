@@ -1,0 +1,3 @@
+/* Basic project styles */
+html,body,#app { height:100%; margin:0; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+a { color: inherit; }
